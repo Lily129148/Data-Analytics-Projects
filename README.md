@@ -1,8 +1,10 @@
-# PORTFOLIO
+# DATA ANALYTICS PROJECTS
 
 ## Introduction
 
-This project was made to showcase my data analysis skills. The project consists of small projects using data cleaning, data wrangling, and data interpretation skills. In this project I used Python, SQL, R, and Tableau.
+These projects represent earlier stages of my development in data analytics and programming. My more recent work focuses on quantitative risk modelling, systemic risk and financial applications of statistical and machine-learning methods.
+
+The projects cover different stages of the data analytics workflow, including data cleaning, data wrangling, SQL querying, statistical analysis, visualisation, and interpretation.
 
 ## Projects
 
@@ -28,9 +30,8 @@ This project was made to showcase my data analysis skills. The project consists 
 ![R](Images/R.png)
 - **Stata**: Employed for data analysis, statistical modeling, and visualization in projects like Customer Behaviour and Interns Satisfaction.
 
-
 ## Contact
 
 Email: lily.nguyen129148@gmail.com<br>
 Phone: +447510616587 <br>
-Website: https://lily129148.github.io/LilyNguyen.giuthub.io/
+LinkedIn: www.linkedin.com/in/linh-nguyen-12a9b14c8d
