@@ -1,4 +1,4 @@
-![image](Images/Portfolio%20Project.png)
+# PORTFOLIO
 
 ## Introduction
 
